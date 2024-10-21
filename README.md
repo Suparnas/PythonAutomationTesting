@@ -14,6 +14,14 @@ If no,
 2. Download the macOS installer.
 3. Open the downloaded file and follow the installation instructions.
 
+
+# PythoninAutomationTesting
+
+Python provides many in built libraries for automated web testing.
+
+- For unit testing and API testing -  unittest, pytest, and nose 
+- For UI testing - Selenium and Python 
+
 Browsers supported by Selenium.
 Find an element when a unique ‘id’ is not available.
 Purpose of the “send_keys.”
