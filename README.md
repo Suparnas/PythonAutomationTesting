@@ -1,8 +1,20 @@
 # PythonAutomationTesting
 Python Automation Testing using Selenium
 
-Identify the steps for installing Python.
-Recognize the browsers supported by Selenium.
-Explain how to find an element when a unique ‘id’ is not available.
-Understand the purpose of the “send_keys.”
-Recall which exception is raised when a function tries to locate an element not yet loaded into the DOM.
+Installing Python
+
+Check if Python is already installed on Mac OS #
+% python3 --version
+
+If yes it shows > Python <version>
+
+If no,
+
+1. Download Python: Visit the official Python website https://www.python.org/downloads/macos/
+2. Download the macOS installer.
+3. Open the downloaded file and follow the installation instructions.
+
+Browsers supported by Selenium.
+Find an element when a unique ‘id’ is not available.
+Purpose of the “send_keys.”
+Exception raised when a function tries to locate an element not yet loaded into the DOM.
