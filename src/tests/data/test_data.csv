@@ -1,0 +1,4 @@
+username,email,password,confirm_password
+testuser1,testuser1@example.com,password1,password1
+testuser2,testuser2@example.com,password2,password2
+testuser3,testuser3@example.com,password3,password3

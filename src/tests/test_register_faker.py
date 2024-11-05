@@ -12,7 +12,7 @@ def driver():
     yield driver
     driver.quit()
 
-# @pytest.fixture(scope="module") 
+@pytest.fixture(scope="module") 
 def user_data(): 
   password = fake.password() 
   return { 
