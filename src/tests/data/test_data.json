@@ -1,0 +1,16 @@
+[
+    {
+        "username": "RetailTherapy1",
+        "email": "RetailTherapy1@gmsail.com",
+        "password": "Password123",
+        "confirm_password": "Password123",
+        "login_success": true
+    },
+    {
+        "username": "RetailTherapy2",
+        "email": "RetailTherapy2@gmail.com",
+        "password": "Password123",
+        "confirm_password": "Password123",
+        "login_success": true
+    }
+]
